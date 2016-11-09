@@ -1,0 +1,27 @@
+{
+  "name": "xev-emitter",
+  "version": "0.0.1",
+  "description": "Get 'keydown' and 'keyup' events in nodejs on X11 by parsing the output of `xev`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twitchard/nodejs-xev-emitter.git"
+  },
+  "keywords": [
+    "keypress",
+    "keyup",
+    "keydown",
+    "xev",
+    "xorg",
+    "events"
+  ],
+  "author": "twitchard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twitchard/nodejs-xev-emitter/issues"
+  },
+  "homepage": "https://github.com/twitchard/nodejs-xev-emitter#readme"
+}
